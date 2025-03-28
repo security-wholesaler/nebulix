@@ -23,7 +23,7 @@ const m2dxOptions = {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://security-wholesaler.com",
+  site: "https://aquamarine-rolypoly-ee81b4.netlify.app",
   integrations: [
     icon(),
     mdx({}),
